@@ -6,7 +6,7 @@
   "builds": {
     "26033001": { "tier": "free", "env": "prod" },
     "26033002": { "tier": "free", "env": "dev" },
-    "26033003": { "tier": "pro", "env": "dev" }
+    "26033003": { "tier": "normal", "env": "dev" }
   },
   "defaultTier": "free"
 }
