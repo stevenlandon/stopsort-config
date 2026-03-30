@@ -8,5 +8,5 @@
     "26033002": { "tier": "free", "env": "dev" },
     "26033009": { "tier": "pro", "env": "dev" }
   },
-  "defaultTier": "free"
+  "defaultTier": "pro"
 }
