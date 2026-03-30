@@ -4,8 +4,8 @@
   "minBuild": "26033001",
   "storeURL": "https://apps.apple.com/app/stopsort/id000000000",
   "builds": {
-    "2026033001": { "tier": "free", "env": "prod" },
-    "2026033002": { "tier": "pro", "env": "dev" }
+    "26033001": { "tier": "free", "env": "prod" },
+    "26033003": { "tier": "pro", "env": "dev" }
   },
   "defaultTier": "free"
 }
